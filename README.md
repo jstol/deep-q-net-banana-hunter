@@ -8,7 +8,7 @@ This project was completed as part of the Udacity [Deep Reinforcement Learning N
 Code within this project is written from scratch (with some inspiration and tips taken from previous [DQN homework](https://github.com/udacity/deep-reinforcement-learning/tree/dc65050c8f47b365560a30a112fb84f762005c6b/dqn) in the Udacity program).
 
 ## Environment
-The goal is to train an agent through (Deep) Q-Learning that is capable of navigating a world containing yellow and blue bananas. Yellow bananas result in a reward of +1, and blue bananas -1. The task is episodic, with the episode ending after a fixed amount of time. An agent that "solves" the environment is defined as achieving a reward of +13 or greater on average over 100 episodes.
+The goal is to train an agent through Q-Learning (specifically through a Deep Q Network \[1\]) that is capable of navigating a world containing yellow and blue bananas. Yellow bananas result in a reward of +1, and blue bananas -1. The task is episodic, with the episode ending after a fixed amount of time. An agent that "solves" the environment is defined as achieving a reward of +13 or greater on average over 100 episodes.
 
 The environment is provided by Udacity, and based on Unity's [ML-Agents](https://github.com/Unity-Technologies/ml-agents) framework.
 
