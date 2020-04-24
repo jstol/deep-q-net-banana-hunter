@@ -4,13 +4,13 @@ __author__ = 'jstol'
 
 # Standard imports
 from collections import deque
+import random
 from typing import (
     Generator,
     List,
     Optional,
     Tuple,
 )
-import random
 
 # Third party imports
 import torch
